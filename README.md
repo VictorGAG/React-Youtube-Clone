@@ -18,4 +18,3 @@ Until now i made the initial page, but maybe in the future a wanna made the rest
 # Informations
 
 * Made with React
-* Api is on my repositories
